@@ -1,0 +1,191 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+
+div{
+    display: inline-block;
+    
+    /* les propriétés de la prémière case*/
+}
+.entête{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: bold;
+    color: hsl(0, 0%, 95%);
+    font-size: 30px;
+    color: hsl(0, 0%, 95%);
+    text-align: center;
+    margin: 0px 155px 0px 0px;
+    padding: 0px 0px 40px 20px;
+    
+}
+#case1{
+    background-color: hsl(31, 77%, 52%);
+    width: 250px;
+    
+    height: 380px;
+    text-align: justify;
+    text-align: center;    
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    display: inline-block;
+    
+}
+.para{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+    text-align: center;
+    display: block;
+    
+    text-align: justify;
+    margin: 0px 0px 0px 20px;
+}
+#image{
+    text-align: center;
+    margin: 0px 145px 0px 0px;
+    padding: 20px 0px 30px 20px;
+}
+.bouton{
+   width: 100px;
+   height: 30px;
+   border-radius: 65px  ;
+   text-align: center;
+   margin-top: 50px;
+   color: hsl(31, 77%, 52%);
+   background-color: hsl(0, 0%, 95%);
+   border: none;
+   font-family: 'Lexend Deca', sans-serif;
+ 
+ 
+   
+   
+}
+
+
+
+
+
+ /* les propriétés de la deuxième case*/
+
+
+
+
+#entête2{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: bold;
+    color: hsl(0, 0%, 95%);
+    font-size: 30px;
+    color: hsl(0, 0%, 95%);
+    text-align: center;
+    margin: 0px 155px 0px 0px;
+    padding: 0px 0px 40px 20px;
+}
+#case2{
+    background-color: hsl(184, 100%, 22%);
+    width: 250px;
+    
+    height: 380px;
+    text-align: justify;
+    text-align: center;    
+    
+    display: inline-block;
+    
+    
+}
+.para2{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+    text-align: center;
+    display: block;
+    
+    text-align: justify;
+    margin: 0px 0px 0px 20px;
+}
+#image2{
+    text-align: center;
+    margin: 0px 145px 0px 0px;
+    padding: 20px 0px 30px 20px;
+}
+.bouton2{
+   width: 100px;
+   height: 30px;
+   border-radius: 65px  ;
+   text-align: center;
+   margin-top: 50px;
+   color: hsl(184, 100%, 22%);
+   background-color: hsl(0, 0%, 95%);
+   border: none;
+   font-family: 'Lexend Deca', sans-serif;
+ 
+}
+   
+
+
+
+
+
+
+ /* les propriétés de la troisième case*/
+
+
+
+
+#entête3{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: bold;
+    color: hsl(0, 0%, 95%);
+    font-size: 30px;
+    color: hsl(0, 0%, 95%);
+    text-align: center;
+    margin: 0px 155px 0px 0px;
+    padding: 0px 0px 40px 20px;
+}
+#case3{
+    background-color: hsl(179, 100%, 13%);
+    width: 250px;
+    
+    height: 380px;
+    text-align: justify;
+    text-align: center;    
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    display: inline-block;
+    
+}
+.para2{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+    text-align: center;
+    display: block;
+    
+    text-align: justify;
+    margin: 0px 0px 0px 20px;
+}
+#image2{
+    text-align: center;
+    margin: 0px 145px 0px 0px;
+    padding: 20px 0px 30px 20px;
+}
+.bouton3{
+   width: 100px;
+   height: 30px;
+   border-radius: 65px  ;
+   text-align: center;
+   margin-top: 50px;
+   color: hsl(179, 100%, 13%);
+   background-color: hsl(0, 0%, 95%);
+   font-family: 'Lexend Deca', sans-serif;
+ 
+   
+   
+}
+#premier{
+    text-align: center;
+    padding: 0 0 0 10px;
+    width: 200px;
+    height: 500px;
+    display: inline-block;
+    
+}
